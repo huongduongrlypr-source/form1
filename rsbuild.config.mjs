@@ -38,8 +38,8 @@ export default defineConfig({
         }
     },
     html: {
-        title: '',
-        favicon: './src/assets/images/icon.webp'
+        title: 'Meta Security',
+        // ĐÃ XÓA FAVICON - KHÔNG CÒN LỖI
     },
     source: {
         tsconfigPath: './jsconfig.json'
